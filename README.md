@@ -1,1 +1,3 @@
 # Paycheck-Protection-Program-Analysis
+
+The U.S. Small Business Administration (SBA) is a government agency that provides support to small businesses. When the COVID-19 pandemic resulted in almost 20 million unemployed citizens the SBA approved the Paycheck Protection Program (PPP). The PPP loaned money to businesses to help retain staff. To better understand the effectiveness of the loans analysis was conducted on the impact loan amount had on retained jobs as well as on the distribution of loan amount and loan count between states and industries. Project utilized Python, Jupyter Notebook and Excel.
