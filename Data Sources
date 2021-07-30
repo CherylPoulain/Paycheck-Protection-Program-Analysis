@@ -1,0 +1,18 @@
+DATA SOURCE #1
+Name:  Paycheck Protection Program Loan-Level Data
+Source:  Kaggle but originally sourced from U.S. Small Business Administration’s website
+Link:  https://www.kaggle.com/davincermak/payroll-protection-program-loanlevel-data?select=ppp_loan_data.csv
+
+
+
+DATA SOURCE #2
+Name: Unemployment Rates 
+Source:  Congressional Research Service
+Link:  https://fas.org/sgp/crs/misc/R46554.pdf
+
+
+
+DATA SOURCE #3
+Name:  Workforce Population Data
+Source:  Bureau of Labor Statistics
+Link:  https://data.bls.gov/cgi-bin/surveymost
